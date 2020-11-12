@@ -6,8 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="xiaogua-framework-parent" />
+        <module name="xiaogua-sso-utils" />
+        <module name="xiaogua-mybatis-utils" />
+        <module name="xiaogua-math-utils" />
+        <module name="xiaogua-bizcode-utils" />
+        <module name="xiaogua-exception-utils" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="xiaogua-sso-utils" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

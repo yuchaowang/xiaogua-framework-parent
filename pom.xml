@@ -10,12 +10,12 @@
     <version>1.0-SNAPSHOT</version>
     <description>xiaogua底层框架</description>
     <modules>
+        <module>xiaogua-base-dependencies</module>
         <module>xiaogua-mybatis-utils</module>
         <module>xiaogua-exception-utils</module>
-        <module>xiaogua-sso-utils</module>
+<!--        <module>xiaogua-sso-utils</module>-->
         <module>xiaogua-bizcode-utils</module>
-        <module>usoft-math-utils</module>
-        <module>usoft-export-utils</module>
+        <module>xiaogua-math-utils</module>
     </modules>
 
     <properties>
@@ -26,23 +26,14 @@
     </properties>
 
     <distributionManagement>
-<!--        &lt;!&ndash; 发布release仓库 &ndash;&gt;-->
-<!--        <repository>-->
-<!--            <id>release</id>-->
-<!--            <name>libs-release</name>-->
-<!--            <url>https://artifactory.uuzcc.cn/artifactory/libs-release-local</url>-->
-<!--        </repository>-->
-<!--        &lt;!&ndash; 发布快照版本 &ndash;&gt;-->
-<!--        <snapshotRepository>-->
-<!--            <id>snapshots</id>-->
-<!--            <name>libs-snapshot</name>-->
-<!--            <url>https://artifactory.uuzcc.cn/artifactory/libs-snapshot-local</url>-->
-<!--        </snapshotRepository>-->
         <repository>
-            <id>local</id>
-            <name>local-repository</name>
-            <url>~/.m2/repository</url>
+            <id>rdc-releases</id>
+            <url>https://repo.rdc.aliyun.com/repository/135715-release-kbJxZa/</url>
         </repository>
+        <snapshotRepository>
+            <id>rdc-snapshots</id>
+            <url>https://repo.rdc.aliyun.com/repository/135715-snapshot-y6UJ73/</url>
+        </snapshotRepository>
     </distributionManagement>
 
     <profiles>

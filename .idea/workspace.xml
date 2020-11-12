@@ -1,9 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93c77a68-b764-41fc-8a0a-7dc86d742c4d" name="Default Changelist" comment="" />
+    <list default="true" id="93c77a68-b764-41fc-8a0a-7dc86d742c4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaogua-sso-utils/xiaogua-sso-utils.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-base-dependencies/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-bizcode-utils/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-bizcode-utils/src/main/java/com/usoft/bizcode/utils/BizCodeUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-bizcode-utils/src/main/java/com/usoft/bizcode/utils/DateUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-bizcode-utils/src/main/java/com/usoft/bizcode/utils/DecimalConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-bizcode-utils/src/main/java/com/usoft/bizcode/utils/LongCodeUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-bizcode-utils/src/test/java/com/usoft/bizcode/utils/BizCodeUtilTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-bizcode-utils/src/test/java/com/usoft/bizcode/utils/DecimalConverterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-cat-utils/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-cat-utils/src/main/java/com/usoft/cat/utils/CatClientInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-cat-utils/src/main/java/com/usoft/cat/utils/CatLogbackAppender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-cat-utils/src/main/java/com/usoft/cat/utils/CatServerInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-cat-utils/src/main/java/com/usoft/cat/utils/GRPCServerHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-cat-utils/src/main/java/com/usoft/cat/utils/IPUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-exception-utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xiaogua-exception-utils/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-exception-utils/src/main/java/com/usoft/exception/utils/BaseRuntimeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/xiaogua-exception-utils/src/main/java/com/xiaogua/exception/utils/BaseRuntimeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-math-utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xiaogua-math-utils/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-math-utils/src/main/java/com/usoft/math/utils/DoubleUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/xiaogua-math-utils/src/main/java/com/xiaogua/math/utils/DoubleUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-math-utils/src/main/java/com/usoft/math/utils/IntegerUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/xiaogua-math-utils/src/main/java/com/xiaogua/math/utils/IntegerUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-math-utils/src/test/java/com/usoft/math/utils/DoubleUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/xiaogua-math-utils/src/test/java/com/xiaogua/math/utils/DoubleUtilTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-mq-utils/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-mq-utils/src/main/java/com/usoft/mq/utils/BaseRabbitReceiveService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-mq-utils/src/main/java/com/usoft/mq/utils/MessageInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-mq-utils/src/main/java/com/usoft/mq/utils/RabbitSendService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-mybatis-utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xiaogua-mybatis-utils/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-mybatis-utils/src/main/java/com/usoft/mybatis/utils/MybatisCommentGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/xiaogua-mybatis-utils/src/main/java/com/xiaogua/mybatis/utils/MybatisCommentGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-mybatis-utils/src/main/java/com/usoft/mybatis/utils/cat/CatMybatisInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-mybatis-utils/src/main/java/com/usoft/mybatis/utils/plugin/SelectByCodePlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/xiaogua-mybatis-utils/src/main/java/com/xiaogua/mybatis/utils/plugin/SelectByCodePlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-mybatis-utils/src/main/java/com/usoft/mybatis/utils/plugin/TableBaseColumnListPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/xiaogua-mybatis-utils/src/main/java/com/xiaogua/mybatis/utils/plugin/TableBaseColumnListPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-protobuf-utils/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-protobuf-utils/src/main/java/com/usoft/protobuf/utils/ProtoBufUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-security-utils/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-security-utils/src/main/java/com/usoft/security/utils/HmacUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-security-utils/src/main/java/com/usoft/security/utils/OpenApiSignUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-sso-utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xiaogua-sso-utils/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-sso-utils/src/main/java/com/usoft/sso/utils/BaseSsoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xiaogua-sso-utils/src/main/java/com/xiaogua/sso/utils/BaseSsoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-sso-utils/src/main/java/com/usoft/sso/utils/Sso2GrpcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/xiaogua-sso-utils/src/main/java/com/xiaogua/sso/utils/Sso2GrpcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-sso-utils/src/main/java/com/usoft/sso/utils/SsoProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/xiaogua-sso-utils/src/main/java/com/xiaogua/sso/utils/SsoProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usoft-sso-utils/src/main/java/com/usoft/sso/utils/UserLoginState.java" beforeDir="false" afterPath="$PROJECT_DIR$/xiaogua-sso-utils/src/main/java/com/xiaogua/sso/utils/UserLoginState.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/usoft-math-utils/target/" />
+    <ignored path="$PROJECT_DIR$/xiaogua-base-dependencies/target/" />
+    <ignored path="$PROJECT_DIR$/xiaogua-bizcode-utils/target/" />
+    <ignored path="$PROJECT_DIR$/xiaogua-sso-utils/target/" />
+    <ignored path="$PROJECT_DIR$/xiaogua-mybatis-utils/target/" />
+    <ignored path="$PROJECT_DIR$/xiaogua-math-utils/target/" />
+    <ignored path="$PROJECT_DIR$/xiaogua-exception-utils/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,22 +67,98 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/xiaogua-mybatis-utils/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1245">
-              <caret line="83" column="37" selection-start-line="83" selection-start-column="31" selection-end-line="83" selection-end-column="37" />
+            <state relative-caret-position="432">
+              <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaogua-mybatis-utils/src/main/java/com/xiaogua/mybatis/utils/MybatisCommentGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaogua-math-utils/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaogua-math-utils/src/test/java/com/xiaogua/math/utils/DoubleUtilTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaogua-exception-utils/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaogua-exception-utils/src/main/java/com/xiaogua/exception/utils/BaseRuntimeException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/usoft-base-dependencies/pom.xml">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="112" column="24" lean-forward="true" selection-start-line="112" selection-start-column="24" selection-end-line="112" selection-end-column="24" />
+            <state relative-caret-position="395">
+              <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaogua-math-utils/src/main/java/com/xiaogua/math/utils/DoubleUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaogua-math-utils/src/main/java/com/xiaogua/math/utils/IntegerUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaogua-mybatis-utils/src/main/java/com/xiaogua/mybatis/utils/plugin/TableBaseColumnListPlugin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -36,15 +166,50 @@
     </leaf>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>usoft</find>
+    </findStrings>
     <replaceStrings>
       <replace>xiaogua</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/xiaogua-bizcode-utils/src</dir>
+      <dir>$PROJECT_DIR$/xiaogua-bizcode-utils</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/usoft-base-dependencies/pom.xml" />
+        <option value="$PROJECT_DIR$/xiaogua-bizcode-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/xiaogua-bizcode-utils/src/test/java/com/usoft/bizcode/utils/DecimalConverterTest.java" />
+        <option value="$PROJECT_DIR$/xiaogua-bizcode-utils/src/test/java/com/usoft/bizcode/utils/BizCodeUtilTest.java" />
+        <option value="$PROJECT_DIR$/xiaogua-bizcode-utils/src/main/java/com/xiaogua/bizcode/utils/DateUtil.java" />
+        <option value="$PROJECT_DIR$/xiaogua-bizcode-utils/src/main/java/com/xiaogua/bizcode/utils/BizCodeUtil.java" />
+        <option value="$PROJECT_DIR$/xiaogua-bizcode-utils/src/main/java/com/xiaogua/bizcode/utils/DecimalConverter.java" />
+        <option value="$PROJECT_DIR$/xiaogua-bizcode-utils/src/main/java/com/xiaogua/bizcode/utils/LongCodeUtil.java" />
+        <option value="$PROJECT_DIR$/xiaogua-bizcode-utils/src/test/java/com/xiaogua/bizcode/utils/BizCodeUtilTest.java" />
+        <option value="$PROJECT_DIR$/xiaogua-bizcode-utils/src/test/java/com/xiaogua/bizcode/utils/DecimalConverterTest.java" />
+        <option value="$PROJECT_DIR$/xiaogua-base-dependencies/pom.xml" />
+        <option value="$PROJECT_DIR$/usoft-sso-utils/src/main/java/com/xiaogua/sso/utils/UserLoginState.java" />
+        <option value="$PROJECT_DIR$/usoft-sso-utils/src/main/java/com/xiaogua/sso/utils/SsoProperties.java" />
+        <option value="$PROJECT_DIR$/usoft-sso-utils/src/main/java/com/xiaogua/sso/utils/Sso2GrpcConfig.java" />
+        <option value="$PROJECT_DIR$/usoft-sso-utils/src/main/java/com/xiaogua/sso/utils/BaseSsoController.java" />
+        <option value="$PROJECT_DIR$/usoft-sso-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/xiaogua-mybatis-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/xiaogua-mybatis-utils/src/main/java/com/xiaogua/mybatis/utils/plugin/SelectByCodePlugin.java" />
+        <option value="$PROJECT_DIR$/xiaogua-mybatis-utils/src/main/java/com/xiaogua/mybatis/utils/plugin/TableBaseColumnListPlugin.java" />
+        <option value="$PROJECT_DIR$/xiaogua-mybatis-utils/src/main/java/com/xiaogua/mybatis/utils/MybatisCommentGenerator.java" />
+        <option value="$PROJECT_DIR$/xiaogua-math-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/xiaogua-math-utils/src/main/java/com/xiaogua/math/utils/DoubleUtil.java" />
+        <option value="$PROJECT_DIR$/xiaogua-math-utils/src/main/java/com/xiaogua/math/utils/IntegerUtil.java" />
+        <option value="$PROJECT_DIR$/xiaogua-math-utils/src/test/java/com/xiaogua/math/utils/DoubleUtilTest.java" />
+        <option value="$PROJECT_DIR$/xiaogua-exception-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/xiaogua-exception-utils/src/main/java/com/xiaogua/exception/utils/BaseRuntimeException.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -57,11 +222,27 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xiaogua-framework-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -79,7 +260,87 @@
             <path>
               <item name="xiaogua-framework-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="xiaogua-framework-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="usoft-base-dependencies" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaogua-exception-utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaogua-framework-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaogua-framework-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaogua-exception-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaogua-framework-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaogua-framework-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaogua-exception-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaogua-framework-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaogua-framework-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaogua-exception-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaogua-framework-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaogua-framework-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaogua-math-utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaogua-framework-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaogua-framework-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaogua-math-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaogua-framework-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaogua-framework-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaogua-math-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaogua-framework-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaogua-framework-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaogua-math-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaogua-framework-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaogua-framework-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaogua-math-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaogua-framework-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaogua-framework-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaogua-math-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaogua-framework-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaogua-framework-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaogua-math-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaogua-framework-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaogua-framework-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaogua-math-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -88,6 +349,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -115,6 +377,62 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.DoubleUtilTest">
+    <configuration name="BizCodeUtilTest.genBizCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xiaogua-bizcode-utils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaogua.bizcode.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xiaogua.bizcode.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.xiaogua.bizcode.utils.BizCodeUtilTest" />
+      <option name="METHOD_NAME" value="genBizCode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecimalConverterTest.fromDecimal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xiaogua-bizcode-utils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaogua.bizcode.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xiaogua.bizcode.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.xiaogua.bizcode.utils.DecimalConverterTest" />
+      <option name="METHOD_NAME" value="fromDecimal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleUtilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xiaogua-math-utils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaogua.math.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xiaogua.math.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.xiaogua.math.utils.DoubleUtilTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DoubleUtilTest" />
+        <item itemvalue="JUnit.BizCodeUtilTest.genBizCode" />
+        <item itemvalue="JUnit.DecimalConverterTest.fromDecimal" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -125,42 +443,60 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605056255140</updated>
-      <workItem from="1605056256889" duration="1108000" />
+      <workItem from="1605056256889" duration="5178000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="DecimalConverterTest_fromDecimal - 2020.11.12 at 19h 59m 32s.xml">
+      <configuration name="DecimalConverterTest.fromDecimal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BizCodeUtilTest_genBizCode - 2020.11.12 at 19h 59m 57s.xml">
+      <configuration name="BizCodeUtilTest.genBizCode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DoubleUtilTest - 2020.11.12 at 20h 08m 45s.xml">
+      <configuration name="DoubleUtilTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DoubleUtilTest - 2020.11.12 at 20h 09m 43s.xml">
+      <configuration name="DoubleUtilTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1108000" />
+    <option name="totallyTimeSpent" value="5178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
       <window_info id="Designer" />
-      <window_info id="UI Designer" />
+      <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Web" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.3297568" />
       <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -170,17 +506,174 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/xiaogua-bizcode-utils/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1245">
-          <caret line="83" column="37" selection-start-line="83" selection-start-column="31" selection-end-line="83" selection-end-column="37" />
+        <state relative-caret-position="285">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usoft-base-dependencies/pom.xml">
+    <entry file="file://$PROJECT_DIR$/xiaogua-bizcode-utils/src/main/java/com/xiaogua/bizcode/utils/DateUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="112" column="24" lean-forward="true" selection-start-line="112" selection-start-column="24" selection-end-line="112" selection-end-column="24" />
+        <state relative-caret-position="195">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaogua-bizcode-utils/src/main/java/com/xiaogua/bizcode/utils/BizCodeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaogua-bizcode-utils/src/main/java/com/xiaogua/bizcode/utils/DecimalConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaogua-bizcode-utils/src/main/java/com/xiaogua/bizcode/utils/LongCodeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaogua-bizcode-utils/src/test/java/com/xiaogua/bizcode/utils/DecimalConverterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaogua-bizcode-utils/src/test/java/com/xiaogua/bizcode/utils/BizCodeUtilTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="92" selection-start-line="13" selection-start-column="78" selection-end-line="13" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaogua-base-dependencies/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-239">
+          <caret line="91" column="24" selection-start-line="91" selection-start-column="24" selection-end-line="91" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaogua-sso-utils/src/main/java/com/xiaogua/sso/utils/UserLoginState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaogua-sso-utils/src/main/java/com/xiaogua/sso/utils/SsoProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaogua-sso-utils/src/main/java/com/xiaogua/sso/utils/Sso2GrpcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaogua-sso-utils/src/main/java/com/xiaogua/sso/utils/BaseSsoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaogua-sso-utils/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="53" column="37" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaogua-mybatis-utils/src/main/java/com/xiaogua/mybatis/utils/plugin/SelectByCodePlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaogua-mybatis-utils/src/main/java/com/xiaogua/mybatis/utils/plugin/TableBaseColumnListPlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaogua-mybatis-utils/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaogua-mybatis-utils/src/main/java/com/xiaogua/mybatis/utils/MybatisCommentGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaogua-math-utils/src/main/java/com/xiaogua/math/utils/IntegerUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaogua-math-utils/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaogua-math-utils/src/test/java/com/xiaogua/math/utils/DoubleUtilTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaogua-exception-utils/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaogua-math-utils/src/main/java/com/xiaogua/math/utils/DoubleUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaogua-exception-utils/src/main/java/com/xiaogua/exception/utils/BaseRuntimeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
         </state>
       </provider>
     </entry>
