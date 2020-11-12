@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.xiaogua.framework</groupId>
+    <artifactId>xiaogua-framework-parent</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <description>xiaogua底层框架</description>
+    <modules>
+        <module>xiaogua-mybatis-utils</module>
+        <module>xiaogua-exception-utils</module>
+        <module>xiaogua-sso-utils</module>
+        <module>xiaogua-bizcode-utils</module>
+        <module>usoft-math-utils</module>
+        <module>usoft-export-utils</module>
+    </modules>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+
+    <distributionManagement>
+<!--        &lt;!&ndash; 发布release仓库 &ndash;&gt;-->
+<!--        <repository>-->
+<!--            <id>release</id>-->
+<!--            <name>libs-release</name>-->
+<!--            <url>https://artifactory.uuzcc.cn/artifactory/libs-release-local</url>-->
+<!--        </repository>-->
+<!--        &lt;!&ndash; 发布快照版本 &ndash;&gt;-->
+<!--        <snapshotRepository>-->
+<!--            <id>snapshots</id>-->
+<!--            <name>libs-snapshot</name>-->
+<!--            <url>https://artifactory.uuzcc.cn/artifactory/libs-snapshot-local</url>-->
+<!--        </snapshotRepository>-->
+        <repository>
+            <id>local</id>
+            <name>local-repository</name>
+            <url>~/.m2/repository</url>
+        </repository>
+    </distributionManagement>
+
+    <profiles>
+        <profile>
+            <!-- 开发环境 -->
+            <id>dev</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
+            <properties>
+                <profile>dev</profile>
+            </properties>
+        </profile>
+        <profile>
+            <!-- 测试环境 -->
+            <id>test</id>
+            <properties>
+                <profile>test</profile>
+            </properties>
+        </profile>
+        <profile>
+            <!-- 生产环境 -->
+            <id>prod</id>
+            <properties>
+                <profile>prod</profile>
+            </properties>
+        </profile>
+    </profiles>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-source-plugin</artifactId>
+                <version>3.0.1</version>
+                <executions>
+                    <execution>
+                        <id>attach-sources</id>
+                        <phase>verify</phase>
+                        <goals>
+                            <goal>jar-no-fork</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+</project>
