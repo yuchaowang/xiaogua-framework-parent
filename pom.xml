@@ -25,17 +25,6 @@
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
 
-    <distributionManagement>
-        <repository>
-            <id>rdc-releases</id>
-            <url>https://repo.rdc.aliyun.com/repository/135715-release-kbJxZa/</url>
-        </repository>
-        <snapshotRepository>
-            <id>rdc-snapshots</id>
-            <url>https://repo.rdc.aliyun.com/repository/135715-snapshot-y6UJ73/</url>
-        </snapshotRepository>
-    </distributionManagement>
-
     <profiles>
         <profile>
             <!-- 开发环境 -->
