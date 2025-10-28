@@ -38,7 +38,7 @@ public class DateUtil {
      *
      * @param str
      * @param pattern
-     * @return
+     * @return 年月日
      */
     public static Date toDate(String str, String pattern) {
         DateTimeFormatter dateTimeFormatter = DateTimeFormatter.ofPattern(pattern, Locale.SIMPLIFIED_CHINESE);
@@ -53,7 +53,7 @@ public class DateUtil {
      *
      * @param date
      * @param pattern
-     * @return
+     * @return 年月日
      */
     public static String toString(Date date, String pattern) {
         if (date == null) {
